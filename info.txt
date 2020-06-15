@@ -1,1 +1,3 @@
 i am in info page
+
+change in info.txt
